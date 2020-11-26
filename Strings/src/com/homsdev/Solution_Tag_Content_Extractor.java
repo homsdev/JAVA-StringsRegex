@@ -11,6 +11,7 @@ public class Solution_Tag_Content_Extractor {
 		Pattern pattern = Pattern.compile("<(.+)>([^<>]+)<\\/\\1>");
 
 		int testCases = scan.nextInt();
+		
 		scan.nextLine();
 
 		while (testCases-- > 0) {
