@@ -9,3 +9,4 @@ This project contains a few Solutions to some typical problems that implicate Re
 * String Tokenizer
 * Valid IP with Regex
 * Pattern Syntax Checker
+* Find & Replace Duplicate Words
