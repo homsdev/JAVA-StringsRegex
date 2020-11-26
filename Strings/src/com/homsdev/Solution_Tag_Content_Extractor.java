@@ -9,7 +9,7 @@ public class Solution_Tag_Content_Extractor {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		Pattern pattern = Pattern.compile("<(.+)>([^<>]+)<\\/\\1>");
-	
+
 		int testCases = scan.nextInt();
 		scan.nextLine();
 
