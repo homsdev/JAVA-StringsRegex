@@ -2,7 +2,7 @@ package com.homsdev;
 
 import java.util.*;
 
-public class Introduction {
+public class Solution_Capitalize_First_Letter {
 
 	
 	public static void main(String[] args) {
